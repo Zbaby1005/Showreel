@@ -1,0 +1,16 @@
+# Visual Studio 缓存文件
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.vsidx
+*.log
+*.bak
+*.backup
+
+# Unity 工程（如果你的作品是 Unity 项目）
+Library/
+Temp/
+Build/
+Builds/
